@@ -1,0 +1,15 @@
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.csproj.AssemblyReference.cache
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.anushop.resources
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.login.resources
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.Properties.Resources.resources
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.csproj.GenerateResource.cache
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.csproj.CoreCompileInputs.cache
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\bin\Debug\mobileshopmanagement.exe.config
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\bin\Debug\mobileshopmanagement.exe
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\bin\Debug\mobileshopmanagement.pdb
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.exe
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.pdb
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.MOBILE.resources
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.Accesories.resources
+C:\Users\ANU\source\repos\mobileshopmanagement\mobileshopmanagement\obj\Debug\mobileshopmanagement.selling.resources
